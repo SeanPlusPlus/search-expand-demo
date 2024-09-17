@@ -25,7 +25,7 @@
 }
 
 .search-container:focus-within .search-input {
-  width: 330px;
+  width: 300px;
   opacity: 1;
   padding: 8px 10px;
   margin-left: -25px;

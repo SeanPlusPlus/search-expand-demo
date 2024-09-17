@@ -1,3 +1,4 @@
+import { FaGithub } from 'react-icons/fa';
 import SearchIconInput from "./Search";
 
 export default function Home() {
@@ -9,8 +10,7 @@ export default function Home() {
         </div>
         <div>
           <p>
-            Pure CSS Search Input Icon Expand
-            [ <a href="https://github.com/SeanPlusPlus/search-expand-demo" target="_blank">GitHub</a> ]
+            Pure CSS Search Icon Expand <a href="https://github.com/SeanPlusPlus/search-expand-demo/blob/main/app/Search.tsx" target='_blank'>TSX</a> / <a href="https://github.com/SeanPlusPlus/search-expand-demo/blob/main/app/SearchInput.css" target='_blank'>CSS</a>
           </p>
         </div>
       </main>
