@@ -1,4 +1,3 @@
-import { FaGithub } from 'react-icons/fa';
 import SearchIconInput from "./Search";
 
 export default function Home() {
